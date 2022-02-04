@@ -34,3 +34,5 @@ To run the tests against the Cypress Test Runner, run
 
 Once the test runner has loaded, click on the spec file you wish to test.
 # zyte-demo
+# zyte-api-test-framework
+# zyte-api-test-framework
